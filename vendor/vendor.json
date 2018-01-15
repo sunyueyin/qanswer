@@ -41,12 +41,6 @@
 			"revisionTime": "2018-01-14T06:45:57Z"
 		},
 		{
-			"checksumSHA1": "gOBaM54JHx9XEjZAl81GGOJr0Ic=",
-			"path": "github.com/otiai10/gosseract",
-			"revision": "63ad056c2e74a796684a8e9312a839aa5c76c8f3",
-			"revisionTime": "2017-12-03T14:31:49Z"
-		},
-		{
 			"checksumSHA1": "JVGDxPn66bpe6xEiexs1r+y6jF0=",
 			"path": "github.com/patrickmn/go-cache",
 			"revision": "a3647f8e31d79543b2d0f0ae2fe5c379d72cedc0",
